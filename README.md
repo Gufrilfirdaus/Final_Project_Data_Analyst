@@ -1,12 +1,12 @@
 # Final_Project_Data_Analyst
 I analyzed customer behavior for Urban Mart to uncover valuable insights and develop data-driven strategies to optimize business performance.
 
-🔍 Project Goals:
-✔ Identify customer segments using RFM Analysis to better understand shopping behavior.
-✔ Analyze customer retention trends through Cohort Analysis to assess long-term loyalty.
-✔ Optimize marketing and promotional strategies based on customer segmentation.
-✔ Develop retention strategies by targeting At-Risk Customers and Loyal Advocates to boost engagement.
-✔ Enhance business strategies by analyzing transaction trends across different product categories and regions.
+🔍 Project Goals:\
+✔ Identify customer segments using RFM Analysis to better understand shopping behavior.\
+✔ Analyze customer retention trends through Cohort Analysis to assess long-term loyalty.\
+✔ Optimize marketing and promotional strategies based on customer segmentation.\
+✔ Develop retention strategies by targeting At-Risk Customers and Loyal Advocates to boost engagement.\
+✔ Enhance business strategies by analyzing transaction trends across different product categories and regions.\
 
 📊 Key Analysis Steps:
 ✅ Data Understanding & Preparation – Processed 50,000 transactions and performed data cleaning.

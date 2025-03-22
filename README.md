@@ -20,4 +20,4 @@ I analyzed customer behavior for Urban Mart to uncover valuable insights and dev
 📌 Customer Retention Strategies – Engage At-Risk Customers and Loyal Advocates with personalized offers and loyalty programs.\
 📌 Marketing Optimization – Strengthen campaigns for VIP Customers & Rising Stars to maximize revenue potential.\
 📌 Regional Insights – Surabaya and Yogyakarta recorded the highest transactions, presenting an opportunity for targeted marketing efforts.\
-📌 Product Category Trends – Seasonal fluctuations in Electronics & Home categories highlight the need for tailored promotions.\
+📌 Product Category Trends – Seasonal fluctuations in Electronics & Home categories highlight the need for tailored promotions.
